@@ -1,0 +1,28 @@
+Arbuste éveillé
+[ Awakened Shrub ]
+Plante de taille P, sans alignement
+Classe d'armure 9
+Points de vie 10 (3d6)
+Vitesse 6 m
+FOR
+3 (-4)
+DEX
+8 (-1)
+CON
+11 (+0)
+INT
+10 (+0)
+SAG
+10 (+0)
+CHA
+6 (-2)
+Vulnérabilités aux dégâts feu
+Résistances aux dégâts perforant
+Sens Perception passive 10
+Langues une langue connue par son créateur
+Puissance 0 (10 PX)
+
+Apparence trompeuse. Tant que l'arbuste reste immobile, il ne peut être distingué d'un arbuste ordinaire.
+ACTIONS
+
+Écorchure. Attaque au corps à corps avec une arme : +1 au toucher, allonge 1,50 m, une cible. Touché : 1 (1d4 - 1) dégâts tranchants.
