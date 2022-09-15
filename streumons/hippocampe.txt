@@ -1,0 +1,28 @@
+Hippocampe géant
+[ Giant Sea Horse ]
+Bête de taille G, sans alignement
+Classe d'armure 13 (armure naturelle)
+Points de vie 16 (3d10)
+Vitesse 0 m, nage 12 m
+FOR
+12 (+1)
+DEX
+15 (+2)
+CON
+11 (+0)
+INT
+2 (-4)
+SAG
+12 (+1)
+CHA
+5 (-3)
+Sens Perception passive 11
+Langues —
+Puissance 1/2 (100 PX)
+
+Charge. Si l'hippocampe se déplace d'au moins 6 mètres en ligne droite vers une cible, puis la touche lors d'une attaque avec un coup de tête dans le même tour, la cible subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 11 ou tomber à terre.
+
+Respiration aquatique. L'hippocampe ne peut respirer que sous l'eau.
+ACTIONS
+
+Coup de tête. Attaque au corps à corps avec une arme : +3 au toucher, allonge 1,50 m, une cible. Touché : 4 (1d6 + 1) dégâts contondants.
